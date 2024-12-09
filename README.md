@@ -1,29 +1,13 @@
-# my_midway_project
+# discord bot
 
-## QuickStart
+> 基于 `midway` 开发 discord 机器人
 
-<!-- add docs here for user -->
+### 技术栈
 
-see [midway docs][midway] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
+```shell
+midway@3.x
+node: 20.18.0
+pnpm
+discord.js
+mysql
 ```
-
-### Deploy
-
-```bash
-$ npm start
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-
-
-[midway]: https://midwayjs.org
